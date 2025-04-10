@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aqxq" alt="aqxq" /></a> </p>
 
-- i'm currently working on [my personal website](aqxq.github.io)
+- i'm currently working on [my personal website](https://aqxq.github.io/)
 
 - i'm currently learning **Python**
 
-- my projects are all available at [https://github.com/aqxq?tab=repositories](https://github.com/aqxq?tab=repositories)
+- my projects are all available [here!](https://github.com/aqxq?tab=repositories)
 
 - you can reach me at **coming soon lol**
 
