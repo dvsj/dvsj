@@ -1,5 +1,10 @@
-<h2 align="center">hello! my name is dev suraj</h2>
-<h3 allign="center">hello@devnandan.me</h3>
+<div align="center">
+<h1>hello! my name is dev suraj</h1>
+<h4>14 y/o student that loves CTFs, hackathons, and listening to music</h4>
+<h5>contact me at hello@devnandan.me</h5>
+</div>
+
+<h2></h2>
 
 ###
 
@@ -32,19 +37,5 @@
 
 <div align="center">
   <img src="https://lastfm-recently-played.vercel.app/api?user=devdid" alt="recently played"/>
-</div>
-
-###
-
-<div align="center">
-  <a href="mailto:capturethedev@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="https://YouTube.com/@devsurajlol" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="http://tryhackme.com/p/also" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
-  </a>
 </div>
 
