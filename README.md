@@ -30,7 +30,7 @@
 ###
 
 <div align="center">
-  <img src="https://lastfm-recently-played.vercel.app/api?user=devdid" alt="recently played"  />
+  <img src="https://lastfm-recently-played.vercel.app/api?user=devdid" alt="recently played"/>
 </div>
 
 ###
