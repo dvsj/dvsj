@@ -33,9 +33,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://lastfm-recently-played.vercel.app/api?user=devdid" alt="recently played"/>
-</div>
 
