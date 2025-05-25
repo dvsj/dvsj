@@ -15,7 +15,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aqxq&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&custom_title=stats!" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aqxq&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&custom_title=stats" height="150" alt="stats graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=aqxq&theme=nord&no-bg=true&no-frame=true" height="150" alt="trophy graph"  />
 </div>
 
