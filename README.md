@@ -1,6 +1,6 @@
 <div align="center">
 <h1>hey, i’m Dev Suraj.</h1>
-  <h4>15‑year‑old who dabbles in CTFs, privacy, and whatever music’s on shuffle.</h4>
+  <h4>i like ctfs and listening to music</h4>
 <h5>reach out at dev@devnandan.me</h5>
 </div>
 
