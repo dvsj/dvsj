@@ -2,11 +2,6 @@
 {
   "name": "dev suraj",
   "email": "dev@devnandan.me",
-  "hobbies": [
-    "ctf comps",
-    "listening to music",
-    "tracking flights on flightradar24"
-  ]
 }
 ```
 
