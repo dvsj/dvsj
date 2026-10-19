@@ -1,7 +1,6 @@
 ```json
 {
-  "name": "dev suraj",
-  "email": "dev@devnandan.me",
+  "name": "dev suraj"
 }
 ```
 
